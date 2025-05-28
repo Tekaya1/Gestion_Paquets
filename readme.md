@@ -1,4 +1,4 @@
-# Gestion des paquets RPM, DNF et Dépôts sous RedHat/CentOS/Fedora
+# Gestion des paquets RPM, DNF et Dépôts sous RedHat/CentOS
 
 ## Partie 1 : RPM
 
